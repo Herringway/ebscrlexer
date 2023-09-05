@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/ebscrparser
+ebscrparser.so
+ebscrparser.dylib
+ebscrparser.dll
+ebscrparser.a
+ebscrparser.lib
+ebscrparser-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

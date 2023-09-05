@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"elpen"
+	],
+	"copyright": "Copyright © 2023, elpen",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"dependencies": {
+		"sjisish": "~>0.0"
+	},
+	"name": "ebscrparser"
+}
