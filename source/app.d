@@ -1,4 +1,4 @@
-import lexer;
+import ebscrlexer;
 import std.file;
 import std.stdio;
 

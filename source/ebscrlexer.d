@@ -1,4 +1,4 @@
-module lexer;
+module ebscrlexer;
 
 import sjisish;
 

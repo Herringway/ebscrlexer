@@ -1,12 +1,12 @@
 {
 	"authors": [
-		"elpen"
+		"Herringway"
 	],
-	"copyright": "Copyright © 2023, elpen",
-	"description": "A minimal D application.",
-	"license": "proprietary",
+	"copyright": "Copyright © 2023, Herringway",
+	"description": "A lexer for the Earthbound text script files released to the public.",
+	"license": "BSL-1.0",
 	"dependencies": {
 		"sjisish": "~>0.0"
 	},
-	"name": "ebscrparser"
+	"name": "ebscrlexer"
 }
