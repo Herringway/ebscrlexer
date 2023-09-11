@@ -14,3 +14,5 @@ ebscrparser-test-*
 *.o
 *.obj
 *.lst
+dub.selections.json
+ebscr
